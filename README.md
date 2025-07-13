@@ -14,7 +14,7 @@ lets check you having chances of stroke or not!
    - StrokePrediction.ipynb   --> code for finding the accuracy of 5 ML models
    - To predict the stroke chances i have used Logistic Regression. 
 
-# Webpage eview 
+# Webpage view 
 
-https://github.com/chavanpuja/DAProject1/assets/114943787/7b7377d5-fc5f-4378-a81c-823c0dd59198
+https://github.com/akashsingh/DAProject1/assets/114943787/7b7377d5-fc5f-4378-a81c-823c0dd59198
 
